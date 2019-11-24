@@ -1,2 +1,3 @@
 # lightideas
-Price automation for the lightideas 
+Price automation for the lightideas website
+
