@@ -1,2 +1,2 @@
-# whitepaper
-the lightideas
+# lightideas
+Price automation for the lightideas 
